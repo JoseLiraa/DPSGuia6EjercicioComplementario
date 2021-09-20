@@ -1,0 +1,18 @@
+*tipos de habitaciones:
+1-indivuduales
+2-twin
+3-dobles
+4-triples
+5-cuatruples
+
+*Servicios del hotel para los huespedes
+1-Catering
+2-guia de excursion
+3-gimnasio
+4-piscina y spa
+
+*Lugares de interes cercanos del hotel
+1-canoa
+2-Kite surf
+3-Recorrido en vicicleta
+4-museo
